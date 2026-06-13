@@ -53,7 +53,7 @@ def plot_fov(df, width=760, height=760, save_file = "", resolution=400):
     plt.show()
 
 
-#############  Uniformly distributed ##############
+##############  Uniformly distributed ##############
 def generate_scattered_fov(count_a=500, count_b=500, width=760, height=760, min_dist=5, seed=42):
 
     np.random.seed(seed)

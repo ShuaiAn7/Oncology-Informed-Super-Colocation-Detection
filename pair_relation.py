@@ -26,7 +26,7 @@ from synthetic_data import generate_scattered_fov, generate_perfect_segregation,
 
 
 
-###################### Brute Force ################
+####################### Brute Force ################
 
 def count_neighbors_brute_force(
     pair_name,
