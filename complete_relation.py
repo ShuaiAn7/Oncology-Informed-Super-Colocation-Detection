@@ -25,7 +25,7 @@ from pair_relation import count_neighbors_brute_force, count_neighbors_rtree, co
 
 
 
-############################### Brute force approach by looping cells  ##################
+################################ Brute force approach by looping cells  ##################
 
 
 def count_neighbors_brute_force_no_self_type(
